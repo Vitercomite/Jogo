@@ -1,0 +1,13 @@
+
+NOTICE — COPYRIGHT & ORIGINALITY
+
+I cannot and will not literally copy or reproduce proprietary code, text, or assets from other games (e.g., Dwarf Fortress, Armored Commander 2, Realpolitk 2, Liberal Crime Squad, Prosperity, Warsim, Realms of Aslona, NetHack, or any other copyrighted title).
+
+However, you asked for a fusion inspired by mechanics from many complex strategy/simulation/roguelike games. I implemented an original, modular, and extensible codebase that draws *design inspiration* from those games (meaning similar categories of systems and gameplay goals), but all code and content included here is newly written and original. It's designed so you can extend, refine, and tune it into a full product.
+
+This package contains:
+- A large set of modular system stubs (200 systems) to demonstrate scale and extension points.
+- Several deeply implemented systems (banking, orderbook market, crime, dungeon exploration, tactical combat, geopolitics, city economy, tech tree, procedural generator, event engine).
+- Installer scripts and README showing how to build/run locally.
+
+You may use, modify, and distribute the code under the included MIT-like license in README.md. If you want me to implement mechanics that closely match a specific game's *unique* or *copyrighted* behavior, we must instead design functionally similar but original mechanics to avoid copyright issues.
